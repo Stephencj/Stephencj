@@ -1,0 +1,36 @@
+# Hi, I'm Stephen Juliano
+
+I build AI systems that do real work for a business. At Sunsoft I took a legacy Oracle ERP support operation and built the AI helpdesk, the development pipeline and the cloud platform around it, end to end.
+
+## What I've built
+
+**Solstice: an AI-run helpdesk and dev pipeline** (private, company-owned)
+- AI robots that triage support tickets, research the root cause in live Oracle databases, and draft replies for a person to approve
+- A pipeline that turns a reported bug into a proposal, a pull request, automated QA, release notes and a guide
+- MCP servers so AI agents can work safely with tickets, databases and releases
+- Runs on AWS (ECS, ECR, RDS, EC2) with tested, traceable GitHub Actions deploys
+
+**Moving a legacy ERP to the modern web**
+- Tools that convert Oracle Forms and Reports to XML and track the migration
+- A web replacement for Crystal Reports, plus launchers and installers for Windows and macOS
+- Automated testing for Oracle Forms using Robot Framework
+
+**Side projects**
+- [media-server](https://github.com/Stephencj/media-server): a personal media server with Apple TV and Fire TV apps
+- [mediarip](https://github.com/Stephencj/mediarip): a DVD and Blu-ray ripper that classifies discs and adds metadata
+- [web-search](https://github.com/Stephencj/web-search): a custom web scraper and search tool
+- An iPhone app that works as a Nintendo Switch controller through a Raspberry Pi
+- Local AI tools: push-to-talk dictation with Whisper, music generation, image cleanup
+
+## Tools I use
+
+**Languages:** TypeScript, Python, Swift, Go, C#, SQL, PL/SQL, Shell
+**AI:** Claude / Anthropic API, agent design, MCP, retrieval over documents, Whisper, local models
+**Web:** SvelteKit, Flask, Electron, REST APIs
+**Data:** Oracle, PostgreSQL, SQLite
+**Cloud and ops:** AWS, Docker, GitHub Actions, Kubernetes, GitOps (ArgoCD, Crossplane), WireGuard
+**Testing:** Playwright, Vitest, pytest, Robot Framework
+
+## Open to
+
+AI engineering, full-stack and platform roles, especially work that puts AI into real business operations.
