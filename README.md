@@ -16,7 +16,7 @@ I build AI systems that do real work for a business. At Sunsoft I took a legacy 
 - Automated testing for Oracle Forms using Robot Framework
 
 **Side projects**
-- [media-server](https://github.com/Stephencj/media-server): a personal media server with Apple TV and Fire TV apps
+- [media-server](https://github.com/Stephencj/media-server-showcase): a personal media server with Apple TV and Fire TV apps
 - [ai-music](https://github.com/Stephencj/ai-music-showcase): an AI music studio for composing MIDI (chords, bass, melody, drums), arranging songs on a timeline and rendering audio, with an iPhone app
 - [panes](https://github.com/Stephencj/panes-showcase): streams real app windows from my machines into tabs on my phone, with taps and typing sent back
 - Local AI tools: push-to-talk dictation with Whisper, image cleanup
