@@ -17,10 +17,9 @@ I build AI systems that do real work for a business. At Sunsoft I took a legacy 
 
 **Side projects**
 - [media-server](https://github.com/Stephencj/media-server): a personal media server with Apple TV and Fire TV apps
-- [mediarip](https://github.com/Stephencj/mediarip): a DVD and Blu-ray ripper that classifies discs and adds metadata
-- [web-search](https://github.com/Stephencj/web-search): a custom web scraper and search tool
-- An iPhone app that works as a Nintendo Switch controller through a Raspberry Pi
-- Local AI tools: push-to-talk dictation with Whisper, music generation, image cleanup
+- [ai-music](https://github.com/Stephencj/ai-music): an AI music studio for composing MIDI (chords, bass, melody, drums), arranging songs on a timeline and rendering audio, with an iPhone app
+- [panes](https://github.com/Stephencj/panes): streams real app windows from my machines into tabs on my phone, with taps and typing sent back
+- Local AI tools: push-to-talk dictation with Whisper, image cleanup
 
 ## Tools I use
 
